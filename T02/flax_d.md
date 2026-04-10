@@ -36,7 +36,7 @@ flowchart TD
 4. **Hackling** — Combing aligns long fibres (line flax) from short fibres (tow).
 
 ### Visual: Flax Plant Structure
-![Flax Field](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flax_field.jpg/640px-Flax_field.jpg)  
+![Flax Field](https://upload.wikimedia.org/wikipedia/commons/6/6a/Flax_field.jpg)
 *Blue-flowered flax plant ready for harvest.*
 
 ---
@@ -95,7 +95,7 @@ Flax fibre is versatile, serving both high-end fashion and heavy industrial sect
 - **Home Textiles:** Bed sheets, tablecloths, napkins, towels, curtains, and upholstery. Linen improves with washing, becoming softer.
 - **Canvas & Geotextiles:** Heavy-duty fabrics for sails, tents, fishing nets, ropes, and sewing thread.
 
-![Linen Fabric](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Linen_close_up.jpg/640px-Linen_close_up.jpg)  
+![Linen Fabric](https://upload.wikimedia.org/wikipedia/commons/2/2c/Handkerchief.jpg)  
 *Close-up of natural linen fabric showing its characteristic texture and lustre.*
 
 ### 🏗️ Industrial & Technical Applications (Composites)

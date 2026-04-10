@@ -36,7 +36,7 @@ flowchart TD
 4. **Hackling** — Combing aligns long fibres (line flax) from short fibres (tow).
 
 ### Visual: Flax Plant Structure
-![Flax Field](https://upload.wikimedia.org/wikipedia/commons/6/6a/Flax_field.jpg)
+![Flax Field](https://upload.wikimedia.org/wikipedia/commons/a/a8/K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg))
 *Blue-flowered flax plant ready for harvest.*
 
 ---
